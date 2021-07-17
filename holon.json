@@ -1,0 +1,13 @@
+{
+    "version": "0.1",
+    "name": "Roberto Valenti",
+    "quote": "You never change things by fighting the existing reality.\nTo change something, build a new model that makes the existing model obsolete.",
+    "quoteauthor": "Buckminster Fuller",
+    "image": "roberto.png",
+    "holons" : 
+    [
+    { "id": "locations"},
+    { "id": "friends"},
+    { "id": "projects"}
+    ]
+}
