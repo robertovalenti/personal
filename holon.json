@@ -6,8 +6,9 @@
     "image": "roberto.png",
     "holons" : 
     [
-    { "id": "locations"},
-    { "id": "friends"},
-    { "id": "projects"}
+    { "id": "mylocations"},
+    { "id": "myfriends"},
+    { "id": "myprojects"},
+    { "id": "mywallet"}
     ]
 }
