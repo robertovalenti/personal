@@ -4,8 +4,6 @@
     "quoteauthor": "Roberto Valenti",
     "holons" : 
     [
-    { "id": "ollie"},
-    { "id": "tim" },
-    { "id": "gien" }
+    { "id": "http://github.com/matslats/holon"}
     ]
 }
