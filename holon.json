@@ -6,9 +6,9 @@
     "image": "roberto.png",
     "holons" : 
     [
-    { "id": "mylocations"},
-    { "id": "myfriends"},
-    { "id": "myprojects"},
-    { "id": "mywallet"}
+    { "id": "http://github.com/robertovalenti/personal/mylocations"},
+    { "id": "http://github.com/robertovalenti/personal/myfriends"},
+    { "id": "http://github.com/robertovalenti/personal/myprojects"},
+    { "id": "http://github.com/robertovalenti/personal/mywallet"}
     ]
 }
