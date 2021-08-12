@@ -7,6 +7,7 @@
     [
     { "id": "http://liminalvillage.com/", "label":"Liminal Village (Italy)"},
     { "id": "https://akasha.org/hub-bcn/", "label":"Akasha Hub (Barcelona)"},
-    { "id": "https://ratpark.org/", "label":"RatPark (Costa Rica)"}
+    { "id": "https://ratpark.org/", "label":"RatPark (Costa Rica)"},
+    { "id": "https://seldulac.ch/murmurations.json", "label":"Seldulac (France)"}
     ]
 }
