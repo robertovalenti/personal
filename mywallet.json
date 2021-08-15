@@ -1,8 +1,9 @@
 {
     "name": "My Wallet",
+    "eth-address": "0x96bB7B429cF97131E624Fa32d27B45595d59b5B8"
     "text": "500",
     "holons" : 
     [
-   
+    { "id": "0x82Aa4dC3E7D85a95cd801394A070AE316b6a668d"}
     ]
 }
