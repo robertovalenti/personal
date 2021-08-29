@@ -1,1 +1,8 @@
-
+{
+    "name": "Oven",
+    "measure" : "minutes",
+    "holons" : 
+    [
+    { "id": "watts", "label": "Watts", "value":"1400"}
+    ]
+}
