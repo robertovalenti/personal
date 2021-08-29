@@ -1,0 +1,16 @@
+{
+    "version": "0.1",
+    "name": "Pizza Margherita",
+    "image": "https://www.kuechengoetter.de/uploads/media/630x630/02/4282-pizza-margherita.jpg",
+    "holons" : 
+    [
+    { "id": "http://github.com/robertovalenti/personal/resources/tomato", "label":"Tomato", "value":"3"},
+    { "id": "http://github.com/robertovalenti/personal/resources/flour", "label":"Flour", "value":"100"},
+    { "id": "http://github.com/robertovalenti/personal/resources/salt", "label":"Salt", "value":"0.1"},
+    { "id": "http://github.com/robertovalenti/personal/resources/mozzarella", "label":"Tomato", "value":"0.1"},
+    { "id": "http://github.com/robertovalenti/personal/resources/basil","label":"Basil", "value":"0.1"},
+    { "id": "http://github.com/robertovalenti/personal/resources/water","label":"Water", "value":"0.3"},
+    { "id": "http://github.com/robertovalenti/personal/resources/hour","label":"Man Hours", "value":"0.05"},
+    { "id": "http://github.com/robertovalenti/personal/resources/oven","label":"Oven Minutes", "value":"20"}
+    ]
+}
